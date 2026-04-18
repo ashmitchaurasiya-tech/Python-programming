@@ -1,0 +1,10 @@
+x="zara"
+y=10
+z=10.98
+a=True
+b=None
+print(type(a))
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(b))
