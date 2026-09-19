@@ -38,6 +38,9 @@ A simple command-line Rock Paper Scissors game using Python.
 ### 🧮 Simple Calculator
 A basic calculator performing arithmetic operations.
 
+### Password detector
+A basic password validation detector using python.
+
 ## 📂 Repository Structure
 
 ```text
