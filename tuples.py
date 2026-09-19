@@ -86,5 +86,5 @@ fruitlist=("apple","banana","mango","grapes")
 app,man,ban,gra=fruitlist
 print(app)
 print(man)
-print(ban)
+print(ban) 
 print(gra)

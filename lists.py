@@ -11,7 +11,8 @@ list_of_elements=[]
 print("Enter list of five elements")
 for i in range (5):
     print("Enter integer",i)
-    userinput=int(input())
+
+    userinput=int(input()) 
     list_of_elements.append(userinput)
 print("The list is:",list_of_elements)
 
@@ -133,11 +134,9 @@ p=[1,q,4]
 print(len(p))
 #2.count()
 basket=['apple','banana','orange','apple']
-basket.count('apple')
-print(basket)
+print(basket.count('apple'))
 a_list=[47,"47",47,4747]
-a_list.count(47)
-print(a_list)
+print(a_list.count(47))
 #3.append()
 basket=['apple','banana','orange']
 basket.append('apple')

@@ -1,6 +1,3 @@
-# Simple ATM Machine for Beginners
-# Simulates basic ATM operations
- 
 # ── Account Database ──────────────────────────────────────────────
 accounts = {
     "1001": {"pin": "1234", "name": "Alice",   "balance": 5000.00},
